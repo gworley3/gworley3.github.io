@@ -1,0 +1,5 @@
+name: gworley3's weblog
+
+markdown: redcarpet
+pygments: true
+timezone: America/Los_Angeles
