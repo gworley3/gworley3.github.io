@@ -20,7 +20,8 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #000;
+  color: #aaa;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -34,8 +35,9 @@ h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a         { color: #ddb08d; }
-a:hover   { color: #3f4d64; }
 a:visited { color: #ae7847; }
+a:hover   { color: #3f4d64; }
+a:active   { color: #3f4d64; }
 
 /*****************************************************************************/
 /*
@@ -52,7 +54,7 @@ a:visited { color: #ae7847; }
 }
 
 .posts span {
-  color: #aaa;
+  color: #666;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
 }
@@ -99,7 +101,7 @@ a:visited { color: #ae7847; }
 }
 
 .meta {
-  color: #aaa;
+  color: #666;
 }
 
 .byline {
@@ -109,7 +111,7 @@ a:visited { color: #ae7847; }
 .footer {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 4px solid #3f4d64;
   margin-top: 2em;
   overflow: hidden;
 }
@@ -119,13 +121,7 @@ a:visited { color: #ae7847; }
   margin-right: 3em;
 }
 
-.footer .contact a {
-  color: #8085C1;
-}
-
 .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
   float: right;
 }
 

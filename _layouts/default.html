@@ -18,7 +18,7 @@
         <div class="site">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">a repository for writing, code, and other things</a>
+            <a class="extra" href="/">{{ site.description }}</a>
           </div>
 
           {{ content }}
@@ -32,6 +32,11 @@
             <div class="contact">
               <p>
                 <a href="https://twitter.com/gworley3">twitter.com/gworley3</a><br />
+              </p>
+            </div>
+            <div class="rss">
+              <p>
+                <a href="feed.xml">rss feed</a>
               </p>
             </div>
           </div>

@@ -1,4 +1,7 @@
 name: gworley3's weblog
+description: a repository for writing, code, and other things
+url: http://gworley3.github.io/
+
 
 markdown: redcarpet
 pygments: true
