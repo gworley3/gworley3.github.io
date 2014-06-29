@@ -11,4 +11,4 @@ Unforunately I have to fill in some of the details myself. As you can tell from 
 
 Eventually I may move some old posts over here to keep them fresh, but most of what I wrote on Blogger is going to stay there. Blogs are mostly ephemeral writing, but on the Internet old links should live as long as possible, so hopefully those will stay up for a long time.  If you need one of those old articles, you can find them at:
 
-[http://gworley3.github.io/](http://gworley3.github.io/)
+[http://gworley3.blogspot.com/](http://gworley3.blogspot.com/)
