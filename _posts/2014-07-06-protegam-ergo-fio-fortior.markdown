@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Protegam ergo fio fortior
+title:  Tueor facio fortior
 date:   2014-07-06
 published: true
 ---
@@ -19,4 +19,6 @@ Luckily, I seem to have conflated “tsuyoku naritai” with the [motif in Japan
 
 And since neither was enough on its own, my brain seems to have put them together for me to get “I need to become stronger”. I work to become stronger, to transcend even myself when I become the greatest, because I need to in order to protect something.
 
-And now that I realize this, I have a better formulation: “protegam ergo fio fortior”. I protect something, so I make myself stronger.
+And now that I realize this, I have a better formulation: “tueor facio fortior”. I protect something I care for, so I make myself stronger.
+
+*Edited 2014-07-07 (1404763954) to change Latin phrase to "tueor facio fortior", which is more what I mean than the previous "protegam ergo fio fortior". Thanks to [Robby Bensinger](https://twitter.com/robbensinger) for the correction.*
