@@ -67,7 +67,7 @@ a:active   { color: #3f4d64; }
 
 .site {
   font-size: 115%;
-  text-align: justify;
+  text-align: left;
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
@@ -142,8 +142,6 @@ a:active   { color: #3f4d64; }
 
 /* standard */
 .post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
   padding: 0 .4em;
 }
 
@@ -152,9 +150,7 @@ a:active   { color: #3f4d64; }
 }
 
 .post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
+  color: #7f8da4;
 }
 
 .post pre code {
@@ -170,4 +166,9 @@ a:active   { color: #3f4d64; }
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+.post img {
+  width: 100%;
+  float: center;
 }
