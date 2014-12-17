@@ -5,7 +5,7 @@ date:   2014-12-16
 published: true
 ---
 
-*Another [Less Wrong](http://lesswrong.com/) related post. So related I [cross posted]() it there. Usual caveats about needing to be familiar with Less Wrong apply with extreme prejudice to this one.*
+*Another [Less Wrong](http://lesswrong.com/) related post. So related I [cross posted](http://lesswrong.com/lw/lej/understanding_agency/) it there. Usual caveats about needing to be familiar with Less Wrong apply with extreme prejudice to this one.*
 
 I used to get frustrated with myself. I'd say existential risk was an important problem or that I wanted to live an awesome life, but then I took no action to mitigate existential risks or make my life more awesome. For a long time I had no good way to explain this, often blaming it on things like [akrasia](/2014/11/09/there-is-no-akrasia.html), but in late 2011 I changed. I started acting to make the world have more of what I valued in it.
 
