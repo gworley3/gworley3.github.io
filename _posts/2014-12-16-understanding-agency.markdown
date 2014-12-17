@@ -35,4 +35,4 @@ Perhaps unsurprisingly, agency is the thing you need to make the world what you 
 
 The challenge now is to find ways of helping people constructively develop. I think we have already made some good strides here with comfort zone expansion exercises and framing rationality as the skills that help you better optimize the world for what you value, but I also think we can do better because I know many folks who have been part of the Less Wrong community for a long time yet have thus far won very little. I anticipate better progress is possible now, though, thanks to having a useful model for understanding the most fundamental aspect of becoming stronger.
 
-*Thanks to Ethan Dickinson for proofreading and offering suggestsions.*
+*Thanks to Ethan Dickinson for offering suggestions on an early draft.*
