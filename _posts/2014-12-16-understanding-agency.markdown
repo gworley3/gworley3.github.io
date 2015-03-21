@@ -1,7 +1,10 @@
 ---
 layout: post
+category: article
 title:  Understanding Agency
 date:   2014-12-16
+listed: false
+permalink: /2014/12/16/understanding-agency.html
 published: true
 ---
 

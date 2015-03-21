@@ -22,7 +22,7 @@ html, body { height: 100%; }
 body {
   background-color: #000;
   color: #aaa;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font: 14px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -53,10 +53,15 @@ a:active   { color: #5f6d84; }
   line-height: 1.75em;
 }
 
-.posts span {
-  color: #666;
+.posts span.date {
+  color: #999;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+}
+
+.posts span.article {
+  font-variant: small-caps;
+  font-size: 120%;
 }
 
 /*****************************************************************************/
@@ -68,7 +73,7 @@ a:active   { color: #5f6d84; }
 .site {
   font-size: 115%;
   text-align: left;
-  width: 42em;
+  max-width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }

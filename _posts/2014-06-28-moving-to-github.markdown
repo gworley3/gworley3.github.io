@@ -1,7 +1,10 @@
 ---
 layout: post
+category: news
 title:  Moving to GitHub
 date:   2014-06-28
+listed: false
+permalink: /2014/06/28/moving-to-github.html
 published: true
 ---
 

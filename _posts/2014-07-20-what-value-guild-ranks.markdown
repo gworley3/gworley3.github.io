@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  What Value Guild Ranks?
+category: thought
+title:  what value guild ranks?
 date:   2014-07-20
+listed: true
+permalink: /2014/07/20/what-value-guild-ranks.html
 published: true
 ---
 

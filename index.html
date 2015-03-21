@@ -6,7 +6,9 @@ title: gworley3's i need to become stronger
 <div id="home">
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date: "%Y-%m-%d (%s)" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% if post.listed %}
+        <li><span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> <span class="{{ post.category }}" ><a href="{{ post.url }}">{{ post.title }}</a></span></li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>

@@ -1,7 +1,10 @@
 ---
 layout: post
+category: programming
 title:  Missing Shared Terminology
 date:   2015-01-02
+listed: false
+permalink: /2015/01/02/missing-shared-terminology.html
 published: true
 ---
 

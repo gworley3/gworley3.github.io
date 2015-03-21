@@ -1,7 +1,10 @@
 ---
 layout: post
+category: programming
 title:  "DbCharmer: Getting Started"
 date:   2014-03-28
+listed: false
+permalink: /2014/03/28/dbcharmer-getting-started.html
 published: true
 ---
 

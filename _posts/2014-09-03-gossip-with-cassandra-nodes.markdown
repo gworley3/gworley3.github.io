@@ -1,7 +1,10 @@
 ---
 layout: post
+category: programming
 title:  Gossip with Cassandra Nodes
 date:   2014-09-03
+listed: false
+permalink: /2014/09/03/gossip-with-cassandra-nodes.html
 published: true
 ---
 

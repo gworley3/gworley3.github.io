@@ -1,7 +1,10 @@
 ---
 layout: post
+category: programming
 title:  Searchable Code
 date:   2013-06-05
+listed: false
+permalink: /2013/06/05/searchable-code.html
 published: true
 ---
 

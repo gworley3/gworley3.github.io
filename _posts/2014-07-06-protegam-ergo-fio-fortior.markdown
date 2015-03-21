@@ -1,7 +1,10 @@
 ---
 layout: post
+category: article
 title:  Tueor ergo fortiorem me facio
 date:   2014-07-06
+listed: false
+permalink: /2014/07/06/protegam-ergo-fio-fortior.html
 published: true
 ---
 

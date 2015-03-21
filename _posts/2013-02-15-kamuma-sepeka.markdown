@@ -1,7 +1,10 @@
 ---
 layout: post
+category: article
 title:  An Introduction to kamuma sepeka
 date:   2013-02-15
+listed: false
+permalink: /2013/02/15/kamuma-sepeka.html
 published: true
 ---
 

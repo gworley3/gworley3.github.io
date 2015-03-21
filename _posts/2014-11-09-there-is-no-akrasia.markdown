@@ -1,7 +1,10 @@
 ---
 layout: post
+category: article
 title:  There is no Akrasia
 date:   2014-11-09
+listed: false
+permalink: /2014/11/09/there-is-no-akrasia.html
 published: true
 ---
 

@@ -1,7 +1,10 @@
 ---
 layout: post
+category: article
 title:  The Books I Needed to Read
 date:   2014-07-12
+listed: false
+permalink: /2014/07/12/the-books-i-needed-to-read.html
 published: true
 ---
 

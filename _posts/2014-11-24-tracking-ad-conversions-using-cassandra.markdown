@@ -1,7 +1,10 @@
 ---
 layout: post
+category: programming
 title:  Tracking ad conversions using Cassandra
 date:   2014-11-24
+listed: false
+permalink: /2014/11/24/tracking-ad-conversions-using-cassandra.html
 published: true
 ---
 

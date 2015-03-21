@@ -1,7 +1,10 @@
 ---
 layout: post
+category: programming
 title:  "Logstash, Heroku, and supervision"
 date:   2014-02-03
+listed: false
+permalink: /2014/02/03/logstash-heroku-and-supervision.html
 published: true
 ---
 

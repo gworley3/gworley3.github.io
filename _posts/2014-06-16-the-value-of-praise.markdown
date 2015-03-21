@@ -1,7 +1,10 @@
 ---
 layout: post
+category: article
 title:  The Value of Praise
 date:   2014-06-16
+listed: false
+permalink: /2014/06/16/the-value-of-praise.html
 published: true
 ---
 *This post originally appeared on my old blog. Copied over a slightly revised on 2014-07-10 (1405024000).*

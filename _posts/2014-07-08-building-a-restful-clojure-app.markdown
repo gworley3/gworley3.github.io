@@ -1,7 +1,10 @@
 ---
 layout: post
+category: programming
 title:  Building a RESTful Clojure App on Heroku
 date:   2014-07-08
+listed: false
+permalink: /2014/07/08/building-a-restful-clojure-app.html
 published: true
 ---
 
