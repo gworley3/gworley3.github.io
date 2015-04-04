@@ -162,6 +162,12 @@ a:active   { color: #5f6d84; }
   border: none;
 }
 
+.post blockquote {
+  margin-left: 0.85em;
+  border-left: thick solid #3f4d64;
+  padding-left: 0.5em;
+}
+
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;
