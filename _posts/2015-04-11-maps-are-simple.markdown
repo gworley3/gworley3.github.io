@@ -1,13 +1,13 @@
 ---
 layout: post
-category: thought
+category: mapmaking
 title:  maps are simple
 date:   2015-04-11
 listed: true
 published: true
 ---
 
-inherent in the [map and territory](/thought/map-and-territory.html) analogy is a certain conception of what 'truth' means. it relies on what some might call [the simple truth](http://www.yudkowsky.net/rational/the-simple-truth/) or the naive perspective on reality. its points are this:
+inherent in the [map and territory](/mapmaking/map-and-territory.html) analogy is a certain conception of what 'truth' means. it relies on what some might call [the simple truth](http://www.yudkowsky.net/rational/the-simple-truth/) or the naive perspective on reality. its points are this:
 
 - the world exists and is universal (the same for everyone)
 - everyone perceives the world for themselves (we each make our own map)

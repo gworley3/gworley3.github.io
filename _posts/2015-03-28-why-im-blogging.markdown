@@ -21,10 +21,10 @@ what i hope is that i'll reach some of the folks for whom my words will resonate
 
 our direction, broadly stated, is to cover these topics:
 
-- mapping and modeling the world
-- protecting the things you value
-- understanding yourself and other humans
-- discovering what you really value
-- changing the world
+- mapping and modeling the world (mapmaking)
+- protecting the things you value (wayfinding)
+- understanding yourself and other humans (directing)
+- discovering what you really value (exploring)
+- changing the world (guiding)
 
 we'll primarily focus on the first four, because i'm still figuring out the basics of the last one myself, but make no mistake: we are here to change the world and make it a better place.

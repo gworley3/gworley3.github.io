@@ -1,6 +1,6 @@
 ---
 layout: post
-category: thought
+category: mapmaking
 title:  map and territory
 date:   2015-04-04
 listed: true
