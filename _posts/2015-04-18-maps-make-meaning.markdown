@@ -1,6 +1,6 @@
 ---
 layout: post
-category: mapmapking
+category: mapmaking
 title:  maps make meaning
 date:   2015-04-18
 listed: true
