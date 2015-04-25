@@ -3,7 +3,7 @@ layout: post
 category: thought
 title:  new blog format
 date:   2015-03-21
-listed: true
+listed: false
 published: true
 ---
 

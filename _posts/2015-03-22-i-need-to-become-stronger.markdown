@@ -15,8 +15,6 @@ what you need is [something to protect](http://lesswrong.com/lw/nb/something_to_
 
 when you have your reason, your something to protect, it's no longer a matter of wanting to become stronger. you *need* to become stronger, because you cannot effectively protect without strength.
 
-why do i need to become stronger? i want to live in a world filled with truth and beauty and joy and happiness. a place where i can push back entropy. and a place where everyone can have what they value, too.
+why do i need to become stronger? i want to live in a world filled with truth and beauty and joy and happiness. a place where i can push back entropy. and a place where everyone can have what they value, too. fundamentally, i protect meaning and the ability to make it, because without meaning there is nothing to protect.
 
-what do i protect? meaning, and the ability to make it.
-
-i need to become stronger.
+i have something to protect, and i want to become stronger to protect it better. ergo, i need to become stronger.
