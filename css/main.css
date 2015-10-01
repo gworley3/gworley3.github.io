@@ -168,6 +168,11 @@ a:active   { color: #5f6d84; }
   padding-left: 0.5em;
 }
 
+.post strong {
+  font-weight: bold;
+  color: #3f4d64;
+}
+
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;
